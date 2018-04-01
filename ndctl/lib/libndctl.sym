@@ -353,4 +353,5 @@ global:
 	ndctl_region_get_persistence_domain;
 	ndctl_bus_get_persistence_domain;
 	ndctl_bus_get_scrub_state;
+	ndctl_bus_start_scrub;
 } LIBNDCTL_14;
